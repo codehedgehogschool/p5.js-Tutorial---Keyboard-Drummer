@@ -1,0 +1,20 @@
+{
+  "name": "code-hedgehog-JS-drummer",
+  "version": "1.0.0",
+  "description": "P5.JS tutorial keyboard drummer",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.10.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "p5.js",
+    "javascript"
+  ],
+  "author": "stephen monslow",
+  "license": "MIT"
+}
