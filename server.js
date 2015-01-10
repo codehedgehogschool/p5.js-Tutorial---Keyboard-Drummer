@@ -10,7 +10,7 @@ var path = require('path');
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('/index.html', function(req, res){
-  res.sendfile('./publicindex.html');
+  res.sendfile('./public/index.html');
 });
 
 app.listen(3000);

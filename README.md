@@ -12,5 +12,6 @@ cd into p5.js-Tutorial-Keyboard-drummer folder
 then run commands:
 
 npm install
+
 npm start
 
