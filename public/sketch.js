@@ -31,11 +31,11 @@ function draw() {
 function keyPressed() {
   var hit = true;
 
-	if(key == 'A') {
-	  kick.play();
-	} else if (key == 'T') {
-	  ride.play();
-	} else if (key == 'S') {
+  if(key == 'A') {
+    kick.play();
+  } else if (key == 'T') {
+    ride.play();
+  } else if (key == 'S') {
     snare.play();
   } else {
     hit = false;
